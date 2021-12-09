@@ -1,6 +1,6 @@
 HTTP/1.1 400 Bad Request
 Date: Thu, 09 Dec 2021 08:32:21 GMT
-Server: Apache/2.4.48 (Unix)
+Server: HenaServer/0.1
 Content-Length: 226
 Connection: close
 Content-Type: text/html; charset=iso-8859-1
